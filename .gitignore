@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env*
+*.pem
+*.key
+*.sqlite*
+.DS_Store
+raw/
+kalshi_btc_15m_trades/
